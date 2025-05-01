@@ -12,3 +12,5 @@
 
 **This text is bolded**
 *This text is itallic*
+
+[This is the text of a link](http://ww.google.com) 
